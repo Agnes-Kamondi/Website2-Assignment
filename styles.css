@@ -1,0 +1,322 @@
+@media all and (max-width:500px){
+    
+}
+#div1{
+    background-color: black;
+    color: white;
+    border: 1px solid;
+    border-top-right-radius: 12px;
+    border-top-left-radius : 12px;
+}
+#p1{
+    text-align: center;
+}
+#email{
+    width: 40px;  
+    margin-top: 30px;
+}
+#phone{
+    width: 50px;
+    margin-top: 30px;
+}
+#section1{
+    display: flex;
+    gap: 80%;
+    padding: 50px;
+}
+#a{
+    color: orange;
+}
+#div2{
+    display: flex;
+    gap: 10%;
+    margin-left: 15%;
+}
+.a{
+    font-size: 15px;
+}
+#section2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/house.jpg);
+    width: 1830px;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.text{
+    color: white;
+    font-size: 100px;
+}
+.text1{
+    color: white;
+}
+#button1{
+    padding: 30px;
+    width: 300px;
+    background-color:orange;
+    color: white;
+}
+.text2{
+    color: black;
+    font-size: 50px;
+}
+#P3{
+    color: orange;
+}
+#num1{
+    font-size: 50px;
+}
+#word{
+    display: flex;
+    gap: 5%;
+    margin-top: 7%;
+}
+#section3{
+display: flex;
+gap : 15%;
+padding-left: 130px;
+}
+#margin{
+    margin-top: 9%;
+}
+#section4{
+    padding: 70px;
+    display: flex;
+    gap: 12%;
+    margin-left: 10%;
+    
+}
+.ocean{
+    width: 40px;
+
+}
+#div3{
+    text-align: center;
+}
+#div4{
+    width: 300px;
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+    background-color:rgb(67, 67, 224);
+    color: white;
+}
+#div5{
+    width: 300px;
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+
+}
+#div6{
+    display: flex;
+    margin-left: 10%;
+    padding: 10px;
+}
+#div7{
+    display: flex;
+    gap: 5%;
+    margin-top: 50px;
+}
+#div8{
+    display: flex;
+    padding-top: 40px;
+    gap: 30%;
+    padding-bottom: 40px;
+    padding-left: 40px;
+}
+#div9{
+    border: 1px solid;
+    width: 200px;
+    text-align: center;
+    margin: 20%;
+    background-color: white;
+}
+#div10{
+    border: 1px solid;
+    width: 300px;
+    height: 400px;
+    background-image: url("images/background.jpg");
+}
+.tick{
+    width: 30px;
+}
+#div11{
+    border: 1px solid;
+    height:600px;
+    width: 400px;
+    background-color: rgb(67, 67, 224);
+
+}
+#P4{
+    margin-left: 15px;
+    color: white;
+}
+.png{
+    width: 30px;
+}
+#section5{
+    display: flex;
+    gap:30%;
+    padding-left: 130px;
+}
+#p{
+    text-align: center;
+    padding: 40px;
+}
+#section6{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/lastbackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1830px;
+    height: 800px;
+    display: flex;
+}
+
+
+#div12{
+    background-color: orange;
+    border: 1px solid;
+    width: 500px;
+    height: 400px;
+    color: white;
+    margin-top: 22%;
+}
+.text3{
+    font-size: 50px;
+    color: white;
+}
+#div13{
+    background-color: rgb(67, 67, 224); 
+    width: 1700px;
+    height: 400px;
+    margin-top: 22%;
+}
+.input{
+    padding:15px;
+}
+#send{
+    background-color: orange;
+    padding: 15px;
+    margin-top: 20%;
+}
+#Div1{
+    display:flex;
+    gap: 5%;
+    padding-left: 5%;
+}
+#section7{
+    text-align: center;
+}
+.png1{
+    width : 100px;
+}
+.girl{
+    width: 100px;
+}
+#section8{
+    display:flex;
+    gap: 15%;
+    margin-left: 10%;
+}
+#Div2{
+    border: 1px solid white;
+    width: 350px;
+    text-align: center;
+}
+#section9{
+    text-align: center;
+    padding: 70px;
+}
+#Address{
+    border:1px solid white;
+    width: 300px;
+    padding: 20px;
+
+}
+#SubscribeNow{
+    border:1px solid ;
+    width: 300px;
+    padding: 20px; 
+    background-color: orange;
+    color: white;
+}
+#section10{
+    display: flex;
+    gap: 25%;
+    margin-left: 20%;
+    
+}
+#section11{
+    text-align: center;
+    padding: 80px;
+
+}
+#Div3{
+width: 350px;
+border: 1px solid white;
+height: 400px;
+background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/box.jpg");
+}
+#Div4{
+    width: 350px;
+    border: 1px solid white;
+    height: 400px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/box2.jpg") ;
+}
+#Div5{
+    width: 350px;
+    border: 1px solid white;
+    margin-right: 20%;
+    height: 400px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/box3.jpg") ;
+}
+#web{
+    align-items: center;
+    color: white;
+}
+#section12{
+    display: flex;
+    gap: 10%;
+    margin-left: 18%;
+    padding: 50px;
+}
+#section13{
+    background-color: orange;
+    color: white;
+    height: 200px;
+    padding: 20px;
+    display: flex;
+    gap: 50%;
+    margin: auto;
+}
+#more{
+    width: 200px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+#over{
+    font-size: 30px;
+}
+#icons{
+    display: flex;
+}
+#footer{
+
+    display:flex;
+    gap : 10%;
+    margin-left: 30%;
+}
+#section14{
+      padding: 50px;
+      background-color: black;
+      color: white;
+}
+#copyright{
+    text-align: center;
+    margin-left: 30%;
+}
+.yellow{
+    width: 20px;
+}
